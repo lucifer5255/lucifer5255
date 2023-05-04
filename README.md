@@ -1,6 +1,6 @@
 
 ![logo](https://github.com/lucifer5255/lucifer5255/blob/main/%20banner.png)
-<h1 align="center">Hi 👋, I'm Akhalaq Monis</h1>
+<h1 align="center">Hi 👋, I'm Lucifer</h1>
 <h3 align="center">A passionate Full stack developer.</h3>
 <img align = “right” alt =“coding” width =“400” src = “https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif”>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucifer5255" alt="lucifer5255" /></a> </p>
